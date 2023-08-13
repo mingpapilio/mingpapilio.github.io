@@ -20,7 +20,5 @@ author_profile: true
 ## Under review or revision
 
 - Cooper, G. A., __Liu, M.__\*, Zhang, Z., Fisher, R. A., West, S. A. (2023). The evolution of predominantly sterile social groups. Under review in *Evolution Letters*.
-- Thomas, J. L.*, Wilson, D. J., __Liu, M.__, Bray, J. E., Griffin, A. S., Ghoul, M. (2023). The evolution & ecology of bacteriocin-mediated competition in natural populations of Staphylococcus aureus. In preparation for ISME.
-- __Liu, M.__<sup>†</sup>, Wu, S.<sup>†</sup>, Hung, T.-M.<sup>†</sup>, ..., Chen, I.-C., Shen, S.-F.* (2023). Benign environment promote thermal trait diversity. In preparation for Nat Ecol Evol.
 
 *: Correspondence, <sup>†</sup>: Co-first authorship
