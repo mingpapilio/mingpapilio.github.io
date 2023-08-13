@@ -8,5 +8,3 @@ redirect_from:
 ---
 
 {% https://mingpapilio.github.io/files/CV_230726.pdf %}
-
-<embed src="https://mingpapilio.github.io/files/CV_230726.pdf" type="application/pdf">
