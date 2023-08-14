@@ -12,6 +12,8 @@ About
 =====
 Hi! I am Ming, an early career researcher at the University of Oxford in the [Department of Biology](https://www.biology.ox.ac.uk/). I am a theoretical and evolutionary biologist by training with a background in entomology. I am currently finishing my PhD with [Stu West](http://zoo-web02.zoo.ox.ac.uk/group/west/), and will join [Kevin Foster's group](https://zoo-kfoster.zoo.ox.ac.uk/) in October.
 
+I am also a free-lance photographer with over 10 years of experience, check out my photograpgic works [here](https://mingpapilio.myportfolio.com/digital/)!
+
 My research
 =====
 My thesis is on the evolution of phenotypic diversity, that is, why do we see variations in individuals of the same species? I looked into various mechanisms that support the selection for variation, which will be briefly explained in below:
