@@ -16,7 +16,7 @@ I am also a free-lance photographer with over 10 years of experience, check out 
 
 My research
 =====
-My thesis is on the evolution of phenotypic diversity, that is, why do we see variations in individuals of the same species? I looked into various mechanisms that support the selection for variation, which will be briefly explained in below:
+My thesis is on **the evolution of phenotypic diversity**, that is, why do we see variations in individuals of the same species? I looked into various mechanisms that support the selection for variation, which will be briefly explained in below:
 
 Division of labour (DoL)
 -----
