@@ -23,7 +23,7 @@ Division of labour (DoL)
 -----
 One way to get variaiton within a population is through specialisation to various tasks, and make the entire group of individual become more adaptive. Stu's research group has a series of paper on this topic, including [DoL's formal definition](https://www.nature.com/articles/nrmicro.2016.111), [what population settings favour DoL](https://www.nature.com/articles/s41559-018-0564-9), [the mechanism to divide labour in clonal population](https://www.nature.com/articles/s41467-021-27902-4), or [nonclonal population](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.8067), and [how does the spatial network between individuals affects DoL](https://elifesciences.org/articles/71968).
 
-![alt text](images/Traits.jpg)
+![alt text](images/DoL_scheme.jpg)
 
 Cheat-cooperator dynamics
 -----
