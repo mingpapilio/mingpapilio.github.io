@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-1. __Liu, M.__\*, Wild G., West, S. A. (2023). Equilibria and oscillations in cheat-cooperator dynamics. In press in [*Evolution Letters*](https://doi.org/10.1093/evlett/qrad032).
-1. Shen, S.-F.\*, Reeve, H. K., Emlen, S. T., __Liu, M.__, Rubenstein, D. R. (2023). Group size and the resolution of insider-outsider conflict in animal societies. In press in *Animal Behaviour*.
-1. Tsai, C.-Y., Huang, H.-T., __Liu, M.__, Cheng, W.-H., Hsu, W.-H., Majumdar, A., Lee, K.-Y., Feng, P.-H., Tseng, C.-H., Chen, K.-Y., Kuan, Y.-C., Kang, J.-H., Lee, H.-C., Wu, C.-J., Liu, W.-T.\* (2023). Associations of fine particulate matter exposure with sleep disorder indices in adults and mediating effect of body fat. In press in [*Atmospheric Pollution Research*](https://doi.org/10.1016/j.apr.2023.101886).
+1. __Liu, M.__\*, Wild G., West, S. A. (2023). Equilibria and oscillations in cheat-cooperator dynamics. *Evolution Letters*, [*in press*](https://doi.org/10.1093/evlett/qrad032).
+1. Shen, S.-F.\*, Reeve, H. K., Emlen, S. T., __Liu, M.__, Rubenstein, D. R. (2023). Group size and the resolution of insider-outsider conflict in animal societies. *Animal Behaviour, in press*.
+1. Tsai, C.-Y., Huang, H.-T., __Liu, M.__, Cheng, W.-H., Hsu, W.-H., Majumdar, A., Lee, K.-Y., Feng, P.-H., Tseng, C.-H., Chen, K.-Y., Kuan, Y.-C., Kang, J.-H., Lee, H.-C., Wu, C.-J., Liu, W.-T.\* (2023). Associations of fine particulate matter exposure with sleep disorder indices in adults and mediating effect of body fat. *Atmospheric Pollution Research*, [*in press*](https://doi.org/10.1016/j.apr.2023.101886).
 1. Lin, Y.-H.<sup>†</sup>, Chen, Y.-Y.<sup>†</sup>, Rubenstein, D. R., __Liu, M.__, Liu, M., Shen, S.-F.\* (2023). Environmental quality mediates the ecological dominance of cooperatively breeding birds. *Ecology Letters* (14226). [Link](https://doi.org/10.1111/ele.14226)
 1. __Liu, M.__\*, West, S. A., Wild, G. (2022). The evolution of manipulative cheating. *eLife* 11 (80611). [Link](https://doi.org/10.7554/eLife.80611)
 1. Cooper, G. A.\*, __Liu, M.__, Peña, J., West, S. A. (2022). The evolution of mechanisms to divide labour in microorganisms. *Nature Communications* 13 (195). [Link](https://doi.org/10.1038/s41467-021-27902-4)
