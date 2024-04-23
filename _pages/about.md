@@ -11,13 +11,13 @@ redirect_from:
 
 About
 =====
-Hi, this is Ming! I am an early career researcher at the University of Oxford in the [Department of Biology](https://www.biology.ox.ac.uk/). I am interested in the ecological and evolutionary dynamics in the biological world. I approach these questions with simulations and mathematical tools. I have recently completed my PhD with [Stu West](http://zoo-web02.zoo.ox.ac.uk/group/west/), and joined [Kevin Foster's group](https://zoo-kfoster.zoo.ox.ac.uk/) in October 2023.
+Hi, this is Ming! I am an early career researcher at the University of Oxford in the [Department of Biology](https://www.biology.ox.ac.uk/). I am interested in the ecological and evolutionary dynamics in the biological world. I approach these questions with simulations and mathematical tools. I have recently completed my PhD with [Stu West](http://zoo-web02.zoo.ox.ac.uk/group/west/), and joined [Kevin Foster's group](https://zoo-kfoster.zoo.ox.ac.uk/) in October 2023. My current work in on the  diversity-stability discussion in community ecology and we are trying to strengthen the connections between microbial experiment and LV-type models.
 
-I am also a free-lance photographer with over 10 years of experience, check out my photograpgic works [here](https://mingpapilio.myportfolio.com/digital/)!
+Another side of my life is that I am also a free-lance photographer with over 10 years of experience. My photograpgic works are showcased [here](https://mingpapilio.myportfolio.com/digital/)!
 
-My research
+Research
 =====
-My thesis was about **the evolution of phenotypic diversity**, that is, why do we see variations in individuals of the same species? I looked into various mechanisms that support the selection for variation, which will be briefly explained in below:
+My thesis was about **the evolution of phenotypic diversity**, that is, why do we see variations in individuals of the same species? I looked into various mechanisms that support the selection for variation, described in the following subsections.
 
 Division of labour (DoL)
 -----
