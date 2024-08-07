@@ -20,6 +20,6 @@ author_profile: true
 
 ## Under review or revision
 
-- Cooper, G. A., __Liu, M.__\*, Zhang, Z., Fisher, R. A., West, S. A. (2023). The evolution of predominantly sterile social groups. Under review in *Evolution Letters*.
+- __Liu, M.__\*, Bell-Roberts, L., Botero, C., Cornwallis, C. K., West, S. A. (2024). Environmental predictability in phylogenetic comparative analysis: how to measure and does it matter? Under review in *Methods in Ecology and Evolution*.
 
 *: Correspondence, <sup>†</sup>: Co-first authorship
