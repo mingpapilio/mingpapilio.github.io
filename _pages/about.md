@@ -11,13 +11,13 @@ redirect_from:
 
 About
 =====
-Hi, this is Ming! I am an early career researcher at the University of Oxford in the [Department of Biology](https://www.biology.ox.ac.uk/). I am interested in the ecological and evolutionary dynamics in the biological world. I approach these questions with simulations and mathematical tools. I have recently completed my PhD with [Stu West](http://zoo-web02.zoo.ox.ac.uk/group/west/), and joined [Kevin Foster's group](https://zoo-kfoster.zoo.ox.ac.uk/) in October 2023. My current work in on the  diversity-stability relationships in community ecology and we focus on decreasing the gap between microbial experiments and theories (in both Lotka-Volterra-type models and resource-consumer-type models). 
+**Hi, I’m Ming!** I am a postdoc in Sir William Dunn School of Pathology at University of Oxford, where I study the eco-evolutionary dynamics of the biological world through simulations, statistics, and mathematical modeling. I recently completed my PhD with [Stu West](http://zoo-web02.zoo.ox.ac.uk/group/west/) before joining [Kevin Foster’s group](https://www.fosterlab.uk/) in late 2023. My current work focuses on the **diversity-stability relationship in multi-species communities**, a crucial question for understanding how ecosystems respond to perturbations such as climate change and antibiotic treatments. I leverage microbial data from the lab to refine and advance new theoretical and predictive frameworks. 
 
-Another side of my life is that I am also a free-lance photographer with 13+ years of experience. My photograpgic works are showcased [here](https://mingpapilio.myportfolio.com/digital/)!
+I’m also a freelance photographer with ~15 years of experience. You can explore my photographic work [here](https://mingpapilio.myportfolio.com/digital/)!
 
 Research
 =====
-My thesis was about **the evolution of phenotypic diversity**, that is, why do we see variations in individuals of the same species? I looked into various mechanisms that support the selection for variation, described in the following subsections. (postdoc works are under rapid develeopment/updates so not listed here)
+My thesis was about the **evolution of phenotypic diversity**, that is, why do we see variations in individuals of the same species? I looked into various mechanisms that support the selection for variation, described in the following subsections. (Stay tuned for updates on my postdoctoral projects!)
 
 Division of labour (DoL)
 -----
