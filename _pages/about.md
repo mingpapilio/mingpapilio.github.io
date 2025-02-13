@@ -11,7 +11,7 @@ redirect_from:
 
 About
 =====
-**Hi, I’m Ming!** I am a postdoc in Sir William Dunn School of Pathology at University of Oxford, where I study the eco-evolutionary dynamics of the biological world through simulations, statistics, and mathematical modeling. I recently completed my PhD with [Stu West](http://zoo-web02.zoo.ox.ac.uk/group/west/) before joining [Kevin Foster’s group](https://www.fosterlab.uk/) in late 2023. My current work focuses on the **diversity-stability relationship in multi-species communities**, a crucial question for understanding how ecosystems respond to perturbations such as climate change and antibiotic treatments. I leverage microbial data from the lab to refine and advance new theoretical and predictive frameworks. 
+**Hi, I’m Ming!** I am a postdoc at Sir William Dunn School of Pathology at the University of Oxford, where I study the eco-evolutionary dynamics of the biological world through simulations, statistics, and mathematical modeling. I recently completed my PhD with [Stu West](http://zoo-web02.zoo.ox.ac.uk/group/west/) before joining [Kevin Foster’s group](https://www.fosterlab.uk/) in late 2023. My current work focuses on the **diversity-stability relationship in multi-species communities**, a crucial question for understanding how ecosystems respond to perturbations such as climate change and antibiotic treatments. I leverage microbial data from the lab to refine and advance new theoretical and predictive frameworks. 
 
 I’m also a freelance photographer with ~15 years of experience. You can explore my photographic work [here](https://mingpapilio.myportfolio.com/digital/)!
 
