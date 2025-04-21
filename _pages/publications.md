@@ -20,6 +20,10 @@ author_profile: true
 
 ## Under review or revision
 
-- __Liu, M.__\*, Bell-Roberts, L., Botero, C., Cornwallis, C. K., West, S. A. (2024). Environmental predictability in phylogenetic comparative analysis: how to measure and does it matter? Under review in *Methods in Ecology and Evolution*.
+- __Liu, M.__\*, Bell-Roberts, L., Botero, C., Cornwallis, C. K., West, S. A. (2025). Environmental predictability in phylogenetic comparative analysis: how to measure and does it matter? Under revision in *Global Ecology and Biogeography*.
+
+- __Liu, M.__<sup>†</sup>, Hung, T.-M.<sup>†</sup>, Wu, S.<sup>†</sup>, Liu, M., Mai, J., Jang, Y.-S., Huang, C.-C., Hsu, C.-Y., Wei, C.-H., Tuanmu, M.-N., Chen, I.-C.\*, Shen, S.-F.\* (2025). Warmer environments harbor greater thermal trait diversity. Under revision in *Nature Communications*.
+
+- Dixit. T., __Liu, M.__, Riederer, J. M., Walker, J. M., Blair, C. J., Lund, J., Moya, C., Spottiswoode, C. N. (2025). Categorical versus continuous signatures of identity in a host–parasite coevolutionary arms race. Under review in *PNAS*.
 
 *: Correspondence, <sup>†</sup>: Co-first authorship
