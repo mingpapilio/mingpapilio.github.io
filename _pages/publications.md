@@ -5,8 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-1. __Liu, M.__\*, Bell-Roberts, L., Botero, C., Cornwallis, C. K., West, S. A. (2025). Environmental predictability in phylogenetic comparative analysis: how to measure it and does it matter? *Global Ecology and Biogeography* in press.
-
+1. __Liu, M.__\*, Bell-Roberts, L., Botero, C., Cornwallis, C. K., West, S. A. (2025). Environmental predictability in phylogenetic comparative analysis: how to measure it and does it matter? *Global Ecology and Biogeography* 34 (8), e70108. [Link](https://doi.org/10.1111/geb.70108)
 1. __Liu, M.__\*, Wild G., West, S. A. (2023). Equilibria and oscillations in cheat-cooperator dynamics. *Evolution Letters* 7 (5), 339-350. [Link](https://doi.org/10.1093/evlett/qrad032).
 1. Shen, S.-F.\*, Reeve, H. K., Emlen, S. T., __Liu, M.__, Rubenstein, D. R. (2023). Group size and the resolution of insider-outsider conflict in animal societies. *Animal Behaviour* 205, 107-116. [Link](https://doi.org/10.1016/j.anbehav.2023.08.013).
 1. Tsai, C.-Y., Huang, H.-T., __Liu, M.__, Cheng, W.-H., Hsu, W.-H., Majumdar, A., Lee, K.-Y., Feng, P.-H., Tseng, C.-H., Chen, K.-Y., Kuan, Y.-C., Kang, J.-H., Lee, H.-C., Wu, C.-J., Liu, W.-T.\* (2023). Associations of fine particulate matter exposure with sleep disorder indices in adults and mediating effect of body fat. *Atmospheric Pollution Research* 14 (10), 101886. [Link](https://doi.org/10.1016/j.apr.2023.101886)
@@ -26,6 +25,6 @@ author_profile: true
 
 - Dixit. T., __Liu, M.__, Riederer, J. M., Walker, J. M., Blair, C. J., Lund, J., Moya, C., Spottiswoode, C. N. (2025). Categorical versus continuous signatures of identity in a host–parasite coevolutionary arms race. Under review in *Current Biology*.
 
-- __Liu, M.__, Scott T. W., Shilcock G., Pull C. D., West S. A. (2025). The evolution and consequences of social immunity. Under review in *PNAS*.
+- __Liu, M.__, Scott T. W., Shilcock G., Pull C. D., West S. A. (2025). The evolution and consequences of social immunity. Under revision in *PNAS*.
 
 *: Correspondence, <sup>†</sup>: Co-first authorship
