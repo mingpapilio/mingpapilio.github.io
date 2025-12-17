@@ -19,7 +19,7 @@ If you would like to reach out, please contact: ming.liu.ac [at] gmail.com. Belo
 
 Research
 =====
-My thesis was about the **evolution of phenotypic diversity**, that is, why do we see variations in individuals of the same species? I looked into various mechanisms that support the selection for variation, described in the following subsections. (Stay tuned for updates on my postdoctoral projects!)
+My PhD thesis is about the **evolution of phenotypic diversity**, that is, why do we see  variations between individuals within the same species (e.g., behavior or moprphology)? I looked into various mechanisms that support the selection for variation, described in the following subsections. (Stay tuned for updates on my postdoc projects!)
 
 Division of labour (DoL)
 -----
