@@ -11,11 +11,11 @@ redirect_from:
 
 About
 =====
-**Hi, I’m Ming!** I am a postdoc at Dunn School of Pathology at the University of Oxford. I study the eco-evolutionary dynamics of the biological world through simulations, statistics, and mathematical modeling. I recently completed my PhD with [Stu West](http://zoo-web02.zoo.ox.ac.uk/group/west/) before joining [Kevin Foster’s group](https://www.fosterlab.uk/) in late 2023. My current work focuses on the **diversity-stability relationship in biological communities**, a key question for understanding how biological communities respond to disturbances such as climate change and antibiotic treatments. During my postdoc, I leverage microbial community data to advance new theoretical and predictive frameworks. 
+**Hi, I’m Ming!** I am a postdoc at Dunn School of Pathology at the University of Oxford. I study the eco-evolutionary dynamics of the biological world through simulations, statistics, experiments, and mathematical modeling. I recently completed my PhD with [Stuart West](https://www.biology.ox.ac.uk/people/stuart-west) before joining [Kevin Foster’s group](https://www.fosterlab.uk/) in late 2023. My current work focuses on the **diversity-stability relationship in biological communities**, a key question for understanding how biological communities respond to disturbances such as climate change and antibiotic treatments. During my postdoc, I leverage microbial community data to advance new theoretical and predictive frameworks. 
 
-I’m also a freelance photographer with ~15 years of experience. You can explore my photographic work [here](https://mingpapilio.myportfolio.com/digital/)!
+I’m also a freelance photographer with ~15 years of experience. Feel free to explore my photographic work [here](https://mingpapilio.myportfolio.com/digital/)!
 
-If you would like to reach out to me, please contact: ming.liu.ac [at] gmail.com. Below is a short summary of my research themes (published work only).
+If you would like to reach out, please contact: ming.liu.ac [at] gmail.com. Below is a short summary of my research themes (published work only).
 
 Research
 =====
