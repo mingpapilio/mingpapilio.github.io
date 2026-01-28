@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="/files/CV_short_251219.pdf" type="application/pdf">
+<embed src="/files/CV_short_260128.pdf" type="application/pdf">
