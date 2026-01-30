@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-1. __Liu, M.__<sup>†</sup>, Hung, T.-M.<sup>†</sup>, Wu, S.<sup>†</sup>, Liu, M., Mai, J., Jang, Y.-S., Huang, C.-C., Hsu, C.-Y., Wei, C.-H., Tuanmu, M.-N., Chen, I.-C.\*, Shen, S.-F.\* (2025). Warmer environments harbor greater thermal trait diversity. *Nature communications* in press. [Link](https://doi.org/10.1038/s41467-025-67419-8)
+1. __Liu, M.__<sup>†</sup>, Hung, T.-M.<sup>†</sup>, Wu, S.<sup>†</sup>, Liu, M., Mai, J., Jang, Y.-S., Huang, C.-C., Hsu, C.-Y., Wei, C.-H., Tuanmu, M.-N., Chen, I.-C.\*, Shen, S.-F.\* (2026). Warmer environments harbor greater thermal trait diversity. *Nature communications* 17 (738). [Link](https://doi.org/10.1038/s41467-025-67419-8)
 1. __Liu, M.__\*, Bell-Roberts, L., Botero, C., Cornwallis, C. K., West, S. A. (2025). Environmental predictability in phylogenetic comparative analysis: how to measure it and does it matter? *Global Ecology and Biogeography* 34 (8), e70108. [Link](https://doi.org/10.1111/geb.70108)
 1. __Liu, M.__\*, Wild G., West, S. A. (2023). Equilibria and oscillations in cheat-cooperator dynamics. *Evolution Letters* 7 (5), 339-350. [Link](https://doi.org/10.1093/evlett/qrad032).
 1. Shen, S.-F.\*, Reeve, H. K., Emlen, S. T., __Liu, M.__, Rubenstein, D. R. (2023). Group size and the resolution of insider-outsider conflict in animal societies. *Animal Behaviour* 205, 107-116. [Link](https://doi.org/10.1016/j.anbehav.2023.08.013).
@@ -22,7 +22,8 @@ author_profile: true
 
 ## Under review or revision
 
-- __Liu, M.__\*, Scott T. W., Shilcock G., Pull C. D., West S. A. (2025). The evolution and consequences of social immunity. Under revision in *PNAS*.
-- Dixit. T., __Liu, M.__, Riederer, J. M., Walker, J. M., Blair, C. J., Lund, J., Moya, C., Spottiswoode, C. N.\* (2025). Categorical versus continuous signatures of identity in a host–parasite coevolutionary arms race. Under review in *PLoS Biology*.
+- __Liu, M.__\*, Scott T. W., Shilcock G., Pull C. D., West S. A. (2026). The evolution and consequences of social immunity. Under revision in *PNAS*.
+- Dixit. T., __Liu, M.__, Riederer, J. M., Walker, J. M., Blair, C. J., Lund, J., Moya, C., Spottiswoode, C. N.\* (2026). Categorical versus continuous signatures of identity in a host–parasite coevolutionary arms race. Under revision in *PLoS Biology*.
+- __Liu, M.__*, Piskovsky, V., Tomanek, I., Brown, D., Foster, K. R. (2026). Species diversity typically reduces ecological stability. Under review in *Science*.
 
 *: Correspondence, <sup>†</sup>: Co-first authorship
