@@ -24,6 +24,6 @@ author_profile: true
 ## Under review or revision
 
 - __Liu, M.__\*, Scott T. W., Shilcock G., Pull C. D., West S. A. (2026). The evolution and consequences of social immunity. Under revision in *PNAS*.
-- __Liu, M.__*, Piskovsky, V., Tomanek, I., Brown, D., Foster, K. R. (2026). Species diversity typically reduces ecological stability. Under review in *Science*.
+- __Liu, M.__\*, Piskovsky, V., Tomanek, I., Brown, D., Foster, K. R.\* (2026). Species diversity typically reduces ecological stability. Under review in *Science*.
 
 *: Correspondence, <sup>†</sup>: Co-first authorship
