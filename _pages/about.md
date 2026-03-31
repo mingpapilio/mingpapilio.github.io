@@ -39,7 +39,9 @@ Testing ground
 =====
 
 ![alt text](images/community_dynamics.gif)
+
 _____
+
 I’m also a freelance photographer with ~15 years of experience. Feel free to explore my photographic work [here](https://mingpapilio.myportfolio.com/digital/)!
 
 If you would like to reach out, please contact: ming.liu.ac [at] gmail.com. Below is a short summary of my research themes (published work only).
