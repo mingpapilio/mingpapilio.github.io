@@ -38,7 +38,7 @@ The third way to maintain variation within a population is through the balencing
 Testing ground
 =====
 
-
+![alt text](images/community_dynamics.gif)
 _____
 I’m also a freelance photographer with ~15 years of experience. Feel free to explore my photographic work [here](https://mingpapilio.myportfolio.com/digital/)!
 
