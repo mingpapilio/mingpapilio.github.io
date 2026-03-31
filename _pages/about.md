@@ -35,13 +35,15 @@ The third way to maintain variation within a population is through the balencing
 
 ![alt text](images/TimeScales.jpg)
 
-Testing ground
+New content under construction...
 =====
 
+**Hi, I’m Ming!** I am a postdoc at Dunn School of Pathology at the University of Oxford. My research focuses on **biological dynamics** over time, which lie at the heart of how natural selection shapes living systems. These dynamics can include changes in population size or shifts in gene frequency within a population. More broadly, they are driven by three major forces: **abiotic conditions, biotic interactions within species, and interactions between species**. To understand the causes and consequences of these dynamics, I combine analytical theory, numerical methods, simulations, advanced statistics, machine learning, and experiments. My research aims to understand all three in depth.
+
 ![alt text](images/community_dynamics.gif)
+![alt text](images/theme_v1.jpg)
+
 
 _____
 
-I’m also a freelance photographer with ~15 years of experience. Feel free to explore my photographic work [here](https://mingpapilio.myportfolio.com/digital/)!
-
-If you would like to reach out, please contact: ming.liu.ac [at] gmail.com. Below is a short summary of my research themes (published work only).
+If you would like to reach out, please contact: ming.liu.ac [at] gmail.com. I’m also a freelance photographer with ~15 years of experience. Feel free to explore my photographic work [here](https://mingpapilio.myportfolio.com/digital/)! 
