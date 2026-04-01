@@ -45,7 +45,7 @@ New content under construction...
 
 Theme 1: Abiotic conditions
 -----
-Abiotic conditions such as temperature, rainfall, humidity, salinity, and pH are fundamental to biological dynamics. They help determine which species are favoured under a given set of environmental conditions. At first glance, these factors may seem straightforward, but in nature they are constantly changing across space and time. That variability makes it much harder to predict whether species will persist, decline, or adapt. Theoretical frameworks are therefore essential for uncovering the general rules that link environmental change to biological outcomes.
+Abiotic conditions such as temperature, rainfall, humidity, salinity, and pH are fundamental to biological dynamics. They help determine which species are favoured under a given set of environmental conditions. At first glance, these factors may seem straightforward, but in nature they are constantly changing across space and time. **That variability makes it much harder to predict whether species will persist, decline, or adapt.** Theoretical frameworks are therefore essential for uncovering the general rules that link environmental change to biological outcomes.
 
 Considering these environmental variations, we have looked into 
 - [The classic bet-hedging](https://doi.org/10.1098/rspb.2019.1623) (between specialist and generalist strategies)
@@ -53,18 +53,22 @@ Considering these environmental variations, we have looked into
 - [Environmental predictabilities](https://doi.org/10.1111/geb.70108)
 - [The functional trait diversity](https://doi.org/10.1038/s41467-025-67419-8)
 
-We found temporal scale of these fluctuations may have contrasting effects on biological systems, while environmental predictability is a potentially misleading term implying cognitive processes. 
+One notable and consistent result is that we found the **temporal scales** of environmental fluctuations usually have contrasting effects (e.g., promote vs obstruct species coexistence). 
 
 Theme 2: Biotic interactions within species
 -----
-Biological interactions within species, among individuals in the same population, are another major driver of biological dynamics. These social interactions can involve cooperation, conflict, or exploitation, and they strongly influence how populations evolve over time. In particular, they shape whether helpful traits can persist, how conflict is controlled, and how more integrated forms of life emerge. These same principles also help explain major evolutionary transitions, such as the origin of genomes, multicellular organisms, and superorganisms.
+Biological interactions within species, among individuals in the same population, are another major driver of biological dynamics. These **social interactions** can involve cooperation, conflict, or exploitation, and they strongly influence how populations evolve over time. In particular, they shape whether helpful traits can persist, how conflict is controlled, and how more integrated forms of life emerge. These same principles also help explain major evolutionary transitions, such as the origin of genomes, multicellular organisms, and superorganisms.
 
-
+Our work on this theme spans across several topics:
+- **Division of labour**: [mechanisms under clonal groups](https://doi.org/10.1038/s41467-021-27902-4), [non-clonal groups](https://doi.org/10.1002/ece3.8067), [the effects of group structures](https://doi.org/10.7554/eLife.71968)
+- **Cheat-cooperator dynamics**: [manipulative cheat](https://doi.org/10.7554/eLife.80611) and [the mechanisms of oscillating dynamics](https://doi.org/10.1093/evlett/qrad032)
+- Social immunity (under revision in PNAS)
 
 Theme 3: Interactions between species
 -----
-The third major driver of biological dynamics is the interaction between species. These interactions include competition, predation, cross-feeding, and facilitation, and together they create the network structure of ecological communities. Once many species are linked in this way, even simple local interactions can generate complex community-level dynamics. Understanding when such systems are stable, predictable, or fragile is therefore one of the central challenges in ecology.
+The third major driver of biological dynamics is the interaction between species. These interactions include competition, predation, cross-feeding, and facilitation, and together they create the network structure of ecological communities. Once many species are linked in this way, even simple local interactions can generate complex community-level dynamics. **Understanding when such systems are stable, predictable, or fragile is therefore one of the central challenges in ecology.**
 
+One question we have investigated is the classic problem of species diversity and ecosystem stability: **does adding more species make a community more, or less, stable?** By combining experiments with general theory, our work aims to clarify a debate that has shaped community ecology for more than 50 years. (Papers under review or in preparation.)
 
 _____
 
