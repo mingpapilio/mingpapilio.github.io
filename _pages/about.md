@@ -35,7 +35,7 @@ Biological interactions within species, among individuals in the same population
 Our work on this theme spans across several topics:
 - **Division of labour**: [mechanisms under clonal groups](https://doi.org/10.1038/s41467-021-27902-4), [non-clonal groups](https://doi.org/10.1002/ece3.8067), [the effects of group structures](https://doi.org/10.7554/eLife.71968)
 - **Cheat-cooperator dynamics**: [manipulative cheat](https://doi.org/10.7554/eLife.80611) and [the mechanisms of oscillating dynamics](https://doi.org/10.1093/evlett/qrad032)
-- Social immunity (under revision in PNAS)
+- **Social immunity** (in press in PNAS)
 
 Theme 3: Interactions between species
 -----
